@@ -6,3 +6,8 @@
 <br /><br />
 *Multilingual Numeral Matchup Application is a UI-based language learning game mainly focused on numerals in Burmese and English language.*
 <br /><br />
+
+
+How To Run:
+1. To execute this project correctly, you must have JDK and Javafx installed and you also need sqlite-jdbc-3.30.1.jar include in the project library.
+2. Run the MainScreen.java to start the application
